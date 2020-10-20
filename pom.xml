@@ -3,4 +3,7 @@
   <groupId>com.sapient</groupId>
   <artifactId>sample-docker-jenkins-integration</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <build>
+  	<finalName>sample-docker-jenkins-integration</finalName>
+  </build>
 </project>
